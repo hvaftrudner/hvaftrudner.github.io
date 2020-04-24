@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/hvaftrudner/hvaftrudner.github.io/static/css/main.be732807.chunk.css",
+    "main.js": "/hvaftrudner/hvaftrudner.github.io/static/js/main.af820f11.chunk.js",
+    "main.js.map": "/hvaftrudner/hvaftrudner.github.io/static/js/main.af820f11.chunk.js.map",
+    "runtime-main.js": "/hvaftrudner/hvaftrudner.github.io/static/js/runtime-main.266f41fb.js",
+    "runtime-main.js.map": "/hvaftrudner/hvaftrudner.github.io/static/js/runtime-main.266f41fb.js.map",
+    "static/js/2.acf41855.chunk.js": "/hvaftrudner/hvaftrudner.github.io/static/js/2.acf41855.chunk.js",
+    "static/js/2.acf41855.chunk.js.map": "/hvaftrudner/hvaftrudner.github.io/static/js/2.acf41855.chunk.js.map",
+    "index.html": "/hvaftrudner/hvaftrudner.github.io/index.html",
+    "precache-manifest.b211b5e4d26af977fc1b3a7bd95ee283.js": "/hvaftrudner/hvaftrudner.github.io/precache-manifest.b211b5e4d26af977fc1b3a7bd95ee283.js",
+    "service-worker.js": "/hvaftrudner/hvaftrudner.github.io/service-worker.js",
+    "static/css/main.be732807.chunk.css.map": "/hvaftrudner/hvaftrudner.github.io/static/css/main.be732807.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.266f41fb.js",
+    "static/js/2.acf41855.chunk.js",
+    "static/css/main.be732807.chunk.css",
+    "static/js/main.af820f11.chunk.js"
+  ]
+}
