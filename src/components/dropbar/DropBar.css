@@ -1,0 +1,44 @@
+.try {
+    background-color: rgb(253, 78, 78);
+    border: solid;
+    border-color: black;
+    border-radius: 15px;
+    position: absolute;
+
+    text-align: center;
+
+    margin-top: -500px;
+    margin-left: 250px;
+
+    height: 180px;
+    width: 330px;
+
+    
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.try p {
+    font-size: 16px;
+}
+
+.box {
+    width: 30px;
+    height: 30px;
+    background-color: rgb(243, 131, 131);
+    border-color: rgb(250, 149, 149);
+    border-style: solid;
+    border-radius: 10px;
+    color: white;
+    margin-bottom: 10px;
+    cursor: pointer;
+    
+    transition: border-radius 2s;
+}
+
+.box:hover {
+    border-color: white;
+    border-radius: 25px;
+}

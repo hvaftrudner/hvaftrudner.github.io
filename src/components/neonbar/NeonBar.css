@@ -1,0 +1,55 @@
+.neonsign{
+    
+    color: rgb(236, 153, 243);
+    
+    font-size: 60px;
+    font-family: 'Sacramento', cursive;
+    
+
+    height: 500px;
+    width: 80px;
+
+    position: fixed;
+    top: 300px;
+    right: 500px;
+    float: right;
+
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    text-align: center;
+    
+
+    border-style: solid;
+    border-radius: 14px;
+    border-color: rgb(236, 153, 243);
+    border-width: 2px;
+
+    /*
+        boxshadow outside / inside
+    box-shadow: 0px 0px 30px #e60073, 0 0 30px #ff4da6 inset;
+    
+        first 4 texshadows make a glowing border, next 2 is gloweffect */
+    text-shadow: -1px 0 #e60073, 0 1px #e60073, 1px 0 #e60073, 0 -1px #e60073, 0px 0px 30px #e60073, 0 0 20px #ff4da6;;
+    
+    -webkit-animation: glow 1s ease-in-out infinite alternate;
+    -moz-animation: glow 1s ease-in-out infinite alternate;
+    animation: glow 1s ease-in-out infinite alternate;
+
+}
+
+@keyframes neonsign {
+    from {
+        text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+    }
+    to {
+        text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+    }
+}
+@-webkit-keyframes neonsign {
+    from {
+        text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+    }
+    to {
+        text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+    }
+}

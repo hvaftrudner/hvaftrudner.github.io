@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  background: #000000; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #000000, #434343); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #000000, #434343); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  /* doesnt apply, parent container not defined
+  background-repeat: no-repeat;*/
+  background-size: cover; 
+  font-size: 40px;
+  color: rgb(204, 184, 184);
+  margin: 0;
+  z-index: 1;
+  /*position: absolute; 
+  height: 1400px;
+  width: 100%;*/ 
+  
+}
+
+.App-link {
+  color: rgb(173, 74, 24);
+  font-size: 30px;
+  font-family: 'Sigmar One', cursive;
+  
+  
+
+}
