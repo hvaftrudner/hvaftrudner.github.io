@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ac31305678e70bd0e60930d658d93920",
+    "revision": "7dd03f8cf8007fa1390adca216b81ce1",
     "url": "/hvaftrudner/hvaftrudner.github.io.git/index.html"
   },
   {
-    "revision": "9ccda3b824e28bbbcacc",
+    "revision": "2571466b07e7ab7c7245",
     "url": "/hvaftrudner/hvaftrudner.github.io.git/static/css/main.1aba50a6.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hvaftrudner/hvaftrudner.github.io.git/static/js/2.eadaae28.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9ccda3b824e28bbbcacc",
-    "url": "/hvaftrudner/hvaftrudner.github.io.git/static/js/main.1d8d53bf.chunk.js"
+    "revision": "2571466b07e7ab7c7245",
+    "url": "/hvaftrudner/hvaftrudner.github.io.git/static/js/main.a729ce85.chunk.js"
   },
   {
     "revision": "50445453f908ff10de96",

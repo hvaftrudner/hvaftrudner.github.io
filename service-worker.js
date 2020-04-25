@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hvaftrudner/hvaftrudner.github.io.git/precache-manifest.3d4e55e2f3d0b507bb3310c36f56e091.js"
+  "/hvaftrudner/hvaftrudner.github.io.git/precache-manifest.42bab63637d4e0a08c0cbd361204da34.js"
 );
 
 self.addEventListener('message', (event) => {
